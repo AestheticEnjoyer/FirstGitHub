@@ -1,5 +1,1 @@
-print("hello")
-
-
-
-print("second hello")
+print("Hello, GitHub!")
