@@ -1,0 +1,234 @@
+Exception ignored in: <function tqdm.__del__ at 0x000001ED087A59E0>
+Traceback (most recent call last):
+  File "C:\Users\Алексей\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tqdm\std.py", line 1148, in __del__
+    self.close()
+  File "C:\Users\Алексей\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tqdm\notebook.py", line 279, in close
+    self.disp(bar_style='danger', check_delay=False)
+    ^^^^^^^^^
+AttributeError: 'tqdm_notebook' object has no attribute 'disp'
+dL/dw = tensor([-11.6280])
+dL/db = tensor([-42.7027])
+loss =  232.7982
+loss =  140.68167
+loss =  111.09837
+loss =  100.736336
+loss =  96.309875
+loss =  93.74293
+loss =  91.784065
+loss =  90.04828
+loss =  88.41637
+loss =  86.85063
+loss =  85.33845
+loss =  83.87492
+loss =  82.45753
+loss =  81.0845
+loss =  79.7544
+loss =  78.46584
+loss =  77.21752
+Exception ignored in: <function tqdm.__del__ at 0x000001ED087A59E0>
+Traceback (most recent call last):
+  File "C:\Users\Алексей\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tqdm\std.py", line 1148, in __del__
+    self.close()
+  File "C:\Users\Алексей\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tqdm\notebook.py", line 279, in close
+    self.disp(bar_style='danger', check_delay=False)
+    ^^^^^^^^^
+AttributeError: 'tqdm_notebook' object has no attribute 'disp'
+Exception ignored in: <function tqdm.__del__ at 0x000001ED087A59E0>
+Traceback (most recent call last):
+  File "C:\Users\Алексей\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tqdm\std.py", line 1148, in __del__
+    self.close()
+  File "C:\Users\Алексей\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tqdm\notebook.py", line 279, in close
+    self.disp(bar_style='danger', check_delay=False)
+    ^^^^^^^^^
+AttributeError: 'tqdm_notebook' object has no attribute 'disp'
+loss =  76.00817
+loss =  74.83656
+loss =  73.70155
+loss =  72.601974
+loss =  71.53673
+loss =  70.50474
+loss =  69.504974
+loss =  68.53641
+loss =  67.5981
+loss =  66.68908
+loss =  65.80845
+loss =  64.9553
+loss =  64.12879
+loss =  63.328087
+loss =  62.552395
+loss =  61.8009
+loss =  61.072884
+loss =  60.367588
+loss =  59.68431
+loss =  59.02239
+loss =  58.381115
+loss =  57.75986
+loss =  57.158
+loss =  56.57494
+loss =  56.010086
+loss =  55.46286
+loss =  54.93272
+loss =  54.41914
+loss =  53.921585
+loss =  53.439568
+loss =  52.9726
+loss =  52.520214
+loss =  52.08195
+loss =  51.657364
+loss =  51.24604
+loss =  50.847557
+loss =  50.461517
+loss =  50.087536
+loss =  49.72522
+loss =  49.374218
+loss =  49.034176
+loss =  48.70475
+loss =  48.385612
+loss =  48.07643
+loss =  47.77691
+loss =  47.486736
+loss =  47.20562
+loss =  46.93329
+loss =  46.66946
+loss =  46.41386
+loss =  46.166252
+loss =  45.92637
+loss =  45.693974
+loss =  45.468838
+loss =  45.250725
+loss =  45.03942
+loss =  44.83472
+loss =  44.636414
+loss =  44.444294
+loss =  44.258167
+loss =  44.077866
+loss =  43.903183
+loss =  43.733955
+loss =  43.57001
+loss =  43.41119
+loss =  43.257317
+loss =  43.108265
+loss =  42.963852
+loss =  42.823948
+loss =  42.688423
+loss =  42.557117
+loss =  42.429916
+loss =  42.30669
+loss =  42.1873
+loss =  42.071648
+loss =  41.959602
+loss =  41.85106
+loss =  41.745903
+loss =  41.644028
+loss =  41.545338
+loss =  41.449726
+loss =  41.357098
+loss =  41.26736
+loss =  41.180428
+loss =  41.096214
+loss =  41.01462
+loss =  40.935577
+loss =  40.85901
+loss =  40.784824
+loss =  40.712948
+loss =  40.643326
+loss =  40.575882
+loss =  40.51054
+loss =  40.447235
+loss =  40.38591
+loss =  40.326496
+loss =  40.268932
+loss =  40.213173
+loss =  40.159153
+loss =  40.10682
+loss =  40.05612
+loss =  40.00701
+loss =  39.959423
+loss =  39.913334
+loss =  39.86867
+loss =  39.825405
+loss =  39.783497
+loss =  39.74289
+loss =  39.703552
+loss =  39.665443
+loss =  39.628525
+loss =  39.592754
+loss =  39.55811
+loss =  39.524536
+loss =  39.492016
+loss =  39.460518
+loss =  39.429996
+loss =  39.400425
+loss =  39.371788
+loss =  39.344032
+loss =  39.31715
+loss =  39.2911
+loss =  39.265877
+loss =  39.241432
+loss =  39.217747
+loss =  39.19481
+loss =  39.172585
+loss =  39.15105
+loss =  39.130196
+loss =  39.10999
+loss =  39.090412
+loss =  39.071445
+loss =  39.053078
+loss =  39.03527
+loss =  39.01803
+loss =  39.001328
+loss =  38.985138
+loss =  38.969463
+loss =  38.954273
+loss =  38.939556
+loss =  38.925304
+loss =  38.91149
+loss =  38.898113
+loss =  38.88515
+loss =  38.872597
+loss =  38.86043
+loss =  38.848644
+loss =  38.837227
+loss =  38.826168
+loss =  38.815453
+loss =  38.80507
+loss =  38.795013
+loss =  38.785267
+loss =  38.775826
+loss =  38.766685
+loss =  38.75783
+loss =  38.749252
+loss =  38.74093
+loss =  38.732883
+loss =  38.72508
+loss =  38.717514
+loss =  38.710197
+loss =  38.703102
+loss =  38.696228
+loss =  38.689568
+loss =  38.683117
+loss =  38.67687
+loss =  38.67082
+loss =  38.664955
+loss =  38.659267
+loss =  38.653763
+loss =  38.648434
+loss =  38.64326
+loss =  38.638264
+loss =  38.633415
+loss =  38.628716
+loss =  38.624165
+loss =  38.619762
+loss =  38.615486
+loss =  38.611347
+loss =  38.607338
+loss =  38.603455
+loss =  38.599697
+Sample:
+tensor([[0.0154, 0.2664, 0.9299, 0.0532, 0.8673],
+        [0.7393, 0.5079, 0.8082, 0.7905, 0.8926],
+        [0.0795, 0.6993, 0.3683, 0.4088, 0.5025],
+        [0.5404, 0.6105, 0.2471, 0.6532, 0.0147]])
+Target:
+tensor([0.8638, 0.0290, 0.7024, 0.7000], dtype=torch.float64)
+wandb: Appending key for api.wandb.ai to your netrc file: C:\Users\Алексей\.netrc

@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.11.8",
+    "heartbeatAt": "2024-02-14T12:51:16.563547",
+    "startedAt": "2024-02-14T12:51:14.429317",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": null,
+        "commit": null
+    },
+    "email": "reggaesharkneedow@yandex.com",
+    "root": "C:/Users/\u0410\u043b\u0435\u043a\u0441\u0435\u0439/HSE DL",
+    "host": "LAPTOP-6JECDJ1O",
+    "username": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439",
+    "executable": "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2112.0,
+        "min": 0.0,
+        "max": 2112.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2112.0,
+            "min": 0.0,
+            "max": 2112.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 119.99999618530273,
+            "used": 89.2547836303711
+        }
+    },
+    "gpu": "NVIDIA GeForce MX250",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce MX250",
+            "memory_total": 2147483648
+        }
+    ],
+    "memory": {
+        "total": 7.8372039794921875
+    }
+}
